@@ -9,5 +9,11 @@ e complete integration with Stripe so that you can cover REAL payments.
 
 ![160780265-692d37ac-7209-4d53-957a-e94b37d123c0](https://user-images.githubusercontent.com/105991587/216106632-66b8c03f-a09b-462c-9ad9-aa7dd4acb6be.png)
 
+![160780381-7c947640-422e-4729-abae-21911e9bc716](https://user-images.githubusercontent.com/105991587/216108604-9ed697cc-08e6-4f39-a509-32dc5576cadd.png)
 
 
+
+![160780549-111ed048-cd4b-4740-b2fd-2c6fc3520c52](https://user-images.githubusercontent.com/105991587/216109027-02cdd506-a873-45c8-8a8f-cca6af33549f.png)
+
+
+![160780884-22d6025e-9b7d-4493-8136-b3dfbf00a32f](https://user-images.githubusercontent.com/105991587/216109317-b040317e-b0f6-439c-b6a3-f972eaca27d9.png)
